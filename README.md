@@ -1,4 +1,9 @@
 # Rustic Engineer Fix
+
+> [!IMPORTANT]
+> Development has moved to the [`bertie` monorepo](https://github.com/bertie-mc/bertie/tree/main/mods/rustic-engineer-fix).
+> This repository is retained read-only for historical tags, releases, and issues.
+
 Runtime patch that fixes *Rustic Engineer*'s airship and dragonfly flight — choppy turning and the pitch-dive bug.
 
 - **Minecraft:** 1.21.1
